@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Vincent
 - 👀 I’m interested in Software Quality Assurance and Product designs
-- Founder and Product Designer of Taskifai
-- Proficient in Both Automation and Manual Teaste
-- Marketing Strategist
-- T
+- I'm the Founder and Product Designer of Taskifai
+- I'm Proficient in Both Automation and Manual Testing
+- A Marketing Strategist
+  
+  
 
 
 <!---
